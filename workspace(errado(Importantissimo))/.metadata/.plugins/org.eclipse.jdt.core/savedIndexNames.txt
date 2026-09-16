@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\Atelechi\Dropbox\TCCOrientação\Fontes\Dispositivo Android\workspace\.metadata\.plugins\org.eclipse.jdt.core
+4160583226.index
+339686453.index
+3241303241.index
+2189508343.index
+2865937123.index

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Teste5</string>
+    <string name="action_settings">Settings</string>
+    <string name="AndroidControl">AndroidControl!</string>
+    <string name="ON"></string>
+    
+    <string name="Slot1">Lampada 1</string>
+    <string name="Slot2">Lampada 2</string>
+    <string name="Slot3">Lampada 3</string>
+    <string name="Configuracao">Configuração</string>
+    <string name="voltar">Volta a tela</string>
+    <string name="off">off</string>
+    <string name="on">Ligado</string>
+    <string name="salvar">Salvar</string>
+    <string name="refresh">Tempo da atualização do estado</string>
+        
+</resources>

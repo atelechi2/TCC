@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidControl</string>
+    <string name="action_settings">Configuração</string>
+    <string name="AndroidControl">Por: Alexandre Telechi</string>
+    <string name="ON"></string>
+    
+    <string name="Slot1">Lampada 1</string>
+    <string name="Slot2">Lampada 2</string>
+    <string name="Slot3">Lampada 3</string>
+    <string name="refresh">Atualizacao</string>
+    <string name="atualizaestado">Tempo de atualizacao do estado</string>
+    <string name="voltar">Voltar sem salvar</string>
+    <string name="off">off</string>
+    <string name="on">Ligado</string>
+    <string name="salvar">Salvar</string>
+    <string name="atualizacao">Salvar</string>
+    <string name="minutos">"Atualização desabilitada"</string>
+    <string name="dimmer">Dimmer Lampada 1</string>
+    <string name="por">* A barra dimer é salva automaticamente</string>
+        
+</resources>

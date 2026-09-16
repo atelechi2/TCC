@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Teste5</string>
+    <string name="action_settings">Settings</string>
+    <string name="AndroidControl">AndroidControl!</string>
+    <string name="ON"></string>
+     <string name="AndroidControl">AndroidControl!</string>
+
+</resources>
